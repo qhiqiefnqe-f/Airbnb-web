@@ -4,6 +4,15 @@
 
 这是一个基于React开发的Airbnb中国版前端项目，使用现代前端技术栈，实现了Airbnb的主要功能和UI界面。项目包含首页、房源列表页、房源详情页等多个页面，支持响应式布局，提供了良好的用户体验。
 
+## 项目展示
+![image](https://github.com/user-attachments/assets/052a69a6-6947-4c1a-8c8b-ebda801e20a8)
+![image](https://github.com/user-attachments/assets/92278c35-6863-4e54-ba8e-bfa83cfbd2f6)
+![image](https://github.com/user-attachments/assets/852a628c-d283-4364-94f5-74c478eba2d5)
+![image](https://github.com/user-attachments/assets/eb6d0be8-fe6f-4fe9-98f7-9a8e862d4a85)
+![image](https://github.com/user-attachments/assets/6be2ef0d-b1dd-4d2d-aa6f-e885e0dda967)
+
+
+
 ## ✨ 主要特点
 
 - 🎨 精美UI设计，高度还原Airbnb官方界面
