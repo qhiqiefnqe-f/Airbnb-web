@@ -7,7 +7,7 @@
 ## 项目展示
 ![image](https://github.com/user-attachments/assets/052a69a6-6947-4c1a-8c8b-ebda801e20a8)
 ![image](https://github.com/user-attachments/assets/92278c35-6863-4e54-ba8e-bfa83cfbd2f6)
-![image](https://github.com/user-attachments/assets/852a628c-d283-4364-94f5-74c478eba2d5)
+![image](https://github.com/user-attachments/assets/2f1cc1d5-549f-43dc-9192-90ebe25dd333)
 ![image](https://github.com/user-attachments/assets/eb6d0be8-fe6f-4fe9-98f7-9a8e862d4a85)
 ![image](https://github.com/user-attachments/assets/6be2ef0d-b1dd-4d2d-aa6f-e885e0dda967)
 
